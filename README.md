@@ -4,7 +4,7 @@ A real-time public transport tracker for Sofia, Bulgaria — focused on **buses*
 
 Live demo: https://iliariabs.github.io/sofia-traffic-map/
 
-![Preview](https://imgur.com/94inVQs)  
+![Preview](https://i.imgur.com/94inVQs.png)  
 *Dark cyber-green aesthetic • Real-time vehicle positions • Route shapes • Stop search*
 
 ---
