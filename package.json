@@ -7,9 +7,11 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "vite build && gh-pages -d dist"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "gtfs-realtime-bindings": "^1.1.1",
     "jszip": "^3.10.1",
     "leaflet": "^1.9.4",
